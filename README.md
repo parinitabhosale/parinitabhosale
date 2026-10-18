@@ -6,7 +6,9 @@ BBA (Computer Applications) student and aspiring Data Analyst. I turn raw data i
 SQL (MySQL, SQL Server, Oracle) • Power BI • Tableau • Excel • Python (Pandas, NumPy)
 
 ## Projects
-- [SQL projects](https://github.com/parinitabhosale/PortfolioProjects): data cleaning and exploratory analysis in SQL Server
+- [SQL portfolio projects](https://github.com/parinitabhosale/PortfolioProjects): Nashville housing data cleaning and COVID-19 data exploration in SQL Server
+- [MySQL employee database management](https://github.com/parinitabhosale/mysql-employee-database-management): analysis of employees, departments, projects, salaries   and timesheets, built during my internship
+- [MySQL sports league analysis](https://github.com/parinitabhosale/mysql-sports-league-analysis): analysis of teams, players, matches and performance statistics,      built during my internship
 - [Web scraping with Pandas](https://github.com/parinitabhosale/web-scraping-wikipedia-pandas): Wikipedia table to DataFrame using Requests and BeautifulSoup
 - [Seattle Airbnb dashboard](https://github.com/parinitabhosale/tableau-seattle-airbnb-dashboard): pricing analysis in Tableau
 - [Nutrition and obesity analysis](https://github.com/parinitabhosale/powerbi-nutrition-obesity-analysis): two-page Power BI dashboard
